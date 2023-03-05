@@ -5,13 +5,50 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <title>My Projects</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins';
+        }
+        body {
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: lightcyan;
+        }
+
+        #container {
+            height: 25%;
+            width: 25%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 5px double black;
+            background-color: white;
+        }
+
+        h1 {
+            position: absolute;
+            top: 5%;
+        }
+    </style>
 </head>
 
 <body>
-    <a href="qrApp/">
-        <p>QR App</p>
-    </a>
+    <h1>My projects so far</h1>
+    <div id="container">
+
+        <a href="qrApp/">
+            <p>QR App</p>
+        </a>
+    </div>
 </body>
 
 </html>
