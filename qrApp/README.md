@@ -23,5 +23,5 @@ And then, what it would look like on a smaller device:
 
 ### Links
 
-- Live Site URL: [https://apriego87-qrcode.netlify.app/]
+- Live Site URL: [https://apriego87-frontmentor.netlify.app/qrapp/]
 
