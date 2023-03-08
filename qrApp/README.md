@@ -37,3 +37,9 @@ And then, what it would look like on a smaller device: <br>
 ### What I learnt
 
 - That is not always necessary to set a width / height for DIVs (I used to set it every time).
+
+## Author
+
+- Website - [Antonio Priego](https://apriego87-frontmentor.netlify.app/)
+- Frontend Mentor - [@apriego87](https://www.frontendmentor.io/profile/apriego87)
+- Twitter - [@apriego87](https://www.twitter.com/apriego87)
