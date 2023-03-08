@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 First of all, this is how the design looks on my regular 4:3 monitor:
-![](./screenshotDesktop.png)
+![Alt](./screenshotDesktop.png "Screenshot from the Desktop layout")
 
 And then, what it would look like on a smaller device:
 ![](./screenshotSmaller.png)
@@ -24,4 +24,4 @@ And then, what it would look like on a smaller device:
 ### Links
 
 - Live Site URL: [https://apriego87-frontmentor.netlify.app/qrapp/]
-
+- GitHub URL: [https://github.com/Apriego87/frontMentor/tree/master/qrApp]
