@@ -15,10 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+
 First of all, this is how the design looks on my regular 4:3 monitor:
 ![Alt](./screenshotDesktop.png "Screenshot of the Desktop layout")
 
-And then, what it would look like on a smaller device:
+And then, what it would look like on a smaller device: <br>
 ![Alt](./screenshotSmaller.png "Screenshot of the Mobile layout")
 
 ### Links
