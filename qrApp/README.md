@@ -20,9 +20,7 @@ First of all, this is how the design looks on my regular 4:3 monitor:
 ![Alt](./screenshotDesktop.png "Screenshot of the Desktop layout")
 
 And then, what it would look like on a smaller device: <br>
-<p align="center">
-  ![Alt](./screenshotSmaller.png "Screenshot of the Mobile layout")
-</p>
+![Alt](./screenshotSmaller.png "Screenshot of the Mobile layout")
 
 ### Links
 
