@@ -20,9 +20,10 @@ First of all, this is how the design looks on my regular 4:3 monitor:
 ![Alt](./screenshotDesktop.png "Screenshot of the Desktop layout")
 
 And then, what it would look like on a smaller device: <br>
-![Alt](./screenshotSmaller.png "Screenshot of the Mobile layout")
+<p align="center">
+  ![Alt](./screenshotSmaller.png "Screenshot of the Mobile layout")
+</p>
 
 ### Links
 
 - Live Site URL: [https://apriego87-frontmentor.netlify.app/qrapp/]
-- GitHub URL: [https://github.com/Apriego87/frontMentor/tree/master/qrApp]
